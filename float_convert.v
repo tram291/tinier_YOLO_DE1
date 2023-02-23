@@ -1,0 +1,34 @@
+
+module float_convert(
+  d, f
+);
+  input [15:0] d;
+  output [15:0] f;
+  
+  wire [15:0] pos_d;
+  wire [5:0] temp;
+  
+  assign pos_d = d[15] ? ~(d - 16'd1) : d;
+  assign temp = (pos_d[15] ? 8'd15:
+                 pos_d[14] ? 8'd14:
+                 pos_d[13] ? 8'd13:
+                 pos_d[12] ? 8'd12:
+                 pos_d[11] ? 8'd11:
+                 pos_d[10] ? 8'd10:
+                 pos_d[9] ? 8'd9:
+                 pos_d[8] ? 8'd8:
+                 pos_d[7] ? 8'd7:
+                 pos_d[6] ? 8'd6:
+                 pos_d[5] ? 8'd5:
+                 pos_d[4] ? 8'd4:
+                 pos_d[3] ? 8'd3:
+                 pos_d[2] ? 8'd2:
+                 pos_d[1] ? 8'd1: 8'd0);
+  //sign
+  assign f[15] = d[15];
+  //exponent
+  assign f[14:10] = d == 0 ? 0 : 5'd15 + temp;
+  //mantisa
+  assign f[9:0] = pos_d << (10 - temp);
+
+endmodule

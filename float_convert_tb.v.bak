@@ -1,0 +1,11 @@
+module float_convert_tb;
+  
+  reg [23:0] d;
+  wire [31:0] f;
+
+  initial begin
+    d = 24'd15;
+  end
+
+  float_convert fc(.f, .d);
+endmodule

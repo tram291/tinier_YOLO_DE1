@@ -1,0 +1,45 @@
+# Current time Wed Dec 14 19:27:25 2022
+# ModelSim Stack Trace
+# Program = vish
+# Id = "10.1d"
+# Version = "2012.11"
+# Date = "Nov  2 2012"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0579be10. Traceback:
+# Current time Wed Dec 14 19:28:23 2022
+# ModelSim Stack Trace
+# Program = vish
+# Id = "10.1d"
+# Version = "2012.11"
+# Date = "Nov  2 2012"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0578be10. Traceback:
+# Current time Wed Dec 14 19:36:21 2022
+# ModelSim Stack Trace
+# Program = vish
+# Id = "10.1d"
+# Version = "2012.11"
+# Date = "Nov  2 2012"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0577be10. Traceback:
+# Current time Wed Dec 14 23:01:42 2022
+# ModelSim Stack Trace
+# Program = vish
+# Id = "10.1d"
+# Version = "2012.11"
+# Date = "Nov  2 2012"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0578be10. Traceback:
+# Current time Wed Dec 14 23:39:45 2022
+# ModelSim Stack Trace
+# Program = vish
+# Id = "10.1d"
+# Version = "2012.11"
+# Date = "Nov  2 2012"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0535be10. Traceback:

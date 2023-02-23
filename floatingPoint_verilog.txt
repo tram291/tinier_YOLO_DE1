@@ -1,0 +1,30 @@
+floating point 32b - verilog
+link tham khảo: https://www.doc.ic.ac.uk/~eedwards/compsys/float/
+format (single-precision):
+S     E    M
+(1b) (8b) (23b)
+------------------------------------------------------------------------
+Calculate progress:
+------------------------------------------------------------------------
+convert:
+real number -> binary scientific notation (SN)-> binary(IEEE 745 standard - IS)
+vise verser
+------------------------------------------------------------------------
+multiply c = a x b:
+********sign bit: a[31] ^ b[31]
+********exponent: 
+c[30:23] = a[30:23] + b[30:23] - 8'd126 
+	 = a[30:23] + b[30:23] - 8'd127 + 8'd1
+- khi chuyển từ SN -> IS: số mũ cần cộng thêm bias (127) để tiện cho việc so sánh
+-> khi cộng 2 số mũ sẽ bị thừa 127 nên cần trừ ra
+- Trừ thêm 1
+	do tích 2 mantissas luôn có bit MSB là 1, do đó cần dấu chấm động sang trái 1 bit, nên số mũ tăng thêm 1 đơn vị.
+	- Tại sao phải dời sang trái 1 bit? 
+		do khi nhân 2 mantissas sẽ được thêm bit 1 vào bên trái của nó, do đó, kết quả luôn có 2 bit bên trái dấu chấm động.
+********mantisa:
+- thêm bit 1 vào bên trái của hai mantisa
+c[22:0] = (ma[23:0] * mb[23:0])[46:24]
+- tích của 2 mantisas có kích thước 48 bit 
+-> chỉ lấy 23 bit bắt đầu bit thứ 46
+	do bit thứ 47 là bit nằm bên trái dấu chấm động (Theo định dạng của SN)
+	23 bit tiếp theo là phần bên phải dấu chấm động, chỉ có phần này cần được lưu vào mantisa

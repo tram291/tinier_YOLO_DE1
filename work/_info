@@ -1,0 +1,500 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadd_float
+Z1 Ie0;hc7nTgXQF`U4UPoc;:1
+Z2 Vl]g<fO@8BFzmP^NLL;lXh1
+Z3 dC:\Users\HP\Desktop\DA2\verilog
+Z4 w1675591337
+Z5 8C:/Users/HP/Desktop/DA2/verilog/add_float.v
+Z6 FC:/Users/HP/Desktop/DA2/verilog/add_float.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/add_float.v|
+Z9 o-work work -O0
+Z10 !s100 PI_?Q:alYI<n<VH8e1@4C3
+Z11 !s108 1675591337.894000
+Z12 !s107 C:/Users/HP/Desktop/DA2/verilog/add_float.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vadd_float_tb
+Z13 !s100 f0JFa_HkAd7ERA?bjPz^b0
+Z14 IfRH?8QD1e[klgHk3aW_AK0
+Z15 V>23GV]]T9L]b_XScj:]^E0
+R3
+Z16 w1672020575
+Z17 8C:/Users/HP/Desktop/DA2/verilog/add_float_tb.v
+Z18 FC:/Users/HP/Desktop/DA2/verilog/add_float_tb.v
+L0 2
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/add_float_tb.v|
+R9
+Z20 !s108 1675591337.956000
+Z21 !s107 C:/Users/HP/Desktop/DA2/verilog/add_float_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecimal_extract
+Z22 !s100 2L_DfE;GY1ZaJ::m=FJ?N2
+Z23 InmK3oOB]98mC`G[@F3ic:3
+Z24 V5H6jNVfDHKX`Egm=@Z7Bc2
+R3
+Z25 w1671856811
+Z26 8C:/Users/HP/Desktop/DA2/verilog/decimal_extract.v
+Z27 FC:/Users/HP/Desktop/DA2/verilog/decimal_extract.v
+L0 1
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/decimal_extract.v|
+R9
+Z29 !s108 1675591338.019000
+Z30 !s107 C:/Users/HP/Desktop/DA2/verilog/decimal_extract.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecimal_extract_tb
+Z31 !s100 joH0[V<Q7=zZo_4kgN8LS0
+Z32 I:LgQNc?_OD[E7[EYeW77m3
+Z33 VF]fc:JPdI0@5FQVkck=Kb1
+R3
+Z34 w1671763028
+Z35 8C:/Users/HP/Desktop/DA2/verilog/decimal_extract_tb.v
+Z36 FC:/Users/HP/Desktop/DA2/verilog/decimal_extract_tb.v
+L0 2
+R7
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/decimal_extract_tb.v|
+R9
+Z38 !s108 1675591338.079000
+Z39 !s107 C:/Users/HP/Desktop/DA2/verilog/decimal_extract_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfloat_convert
+Z40 !s100 [GR<B>]g@[gOj:gY2O>9Y1
+Z41 I3lm@>iR1I`<P83Vc9KNIZ2
+Z42 V7HmWhjR5VbYPeT6[SbXdB1
+R3
+Z43 w1671810043
+Z44 8C:/Users/HP/Desktop/DA2/verilog/float_convert.v
+Z45 FC:/Users/HP/Desktop/DA2/verilog/float_convert.v
+L0 2
+R7
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/float_convert.v|
+R9
+Z47 !s108 1675591338.152000
+Z48 !s107 C:/Users/HP/Desktop/DA2/verilog/float_convert.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfloat_convert_tb
+Z49 !s100 [4BQl8MPmn]d7KjQ4I4FQ2
+Z50 IDS14mbWc?c[Uk2J@K=5AI1
+Z51 V6KW8b<4e8h7<KF?R:Z?@A1
+R3
+Z52 w1671692012
+Z53 8C:/Users/HP/Desktop/DA2/verilog/float_convert_tb.v
+Z54 FC:/Users/HP/Desktop/DA2/verilog/float_convert_tb.v
+L0 1
+R7
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/float_convert_tb.v|
+R9
+Z56 !s108 1675591338.239000
+Z57 !s107 C:/Users/HP/Desktop/DA2/verilog/float_convert_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfloat_larger
+Z58 !s100 OVQOI<zE]lQ13H12;z26e0
+Z59 I9EdP;VVnc0k=_mAjiV0iX3
+Z60 VF5cD[FaZaGCZJ]5^UnEfS1
+R3
+Z61 w1675590865
+Z62 8C:/Users/HP/Desktop/DA2/verilog/float_larger.v
+Z63 FC:/Users/HP/Desktop/DA2/verilog/float_larger.v
+L0 1
+R7
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/float_larger.v|
+R9
+Z65 !s108 1675591339.147000
+Z66 !s107 C:/Users/HP/Desktop/DA2/verilog/float_larger.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiply
+Z67 !s100 YU`gXKz8Oaf;EM?d[AL8L0
+Z68 I3M^8XBJ04^ANOQ=1R92S<1
+Z69 VH;QBS;821_ghMBV0Id=NB2
+R3
+Z70 w1671851332
+Z71 8C:/Users/HP/Desktop/DA2/verilog/Multiply.v
+Z72 FC:/Users/HP/Desktop/DA2/verilog/Multiply.v
+L0 1
+R7
+r1
+31
+Z73 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/Multiply.v|
+R9
+Z74 n@multiply
+Z75 !s108 1675591338.279000
+Z76 !s107 C:/Users/HP/Desktop/DA2/verilog/Multiply.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreorg_controller
+Z77 !s100 =DVka]`iSgk=fQFbIF>T:1
+Z78 Ih<Me2f8nSdCjCJdUTXF:70
+Z79 V=fAaIA]VV:>=DNCYHA`8j2
+R3
+Z80 w1672387172
+Z81 8C:/Users/HP/Desktop/DA2/verilog/reorg_controller.v
+Z82 FC:/Users/HP/Desktop/DA2/verilog/reorg_controller.v
+L0 5
+R7
+r1
+31
+Z83 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/reorg_controller.v|
+R9
+Z84 !s108 1675591338.344000
+Z85 !s107 parameters.h|C:/Users/HP/Desktop/DA2/verilog/reorg_controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreorg_layer
+Z86 !s100 GFnCP7bW?P09kbOLg5]CZ0
+Z87 I=>gCc?SWDn3;k1O_;a9@W3
+Z88 VQkL:XFiGj`9H:=<mR8VjL2
+Z89 dC:\Users\HP\Desktop\DA2
+Z90 w1670756656
+Z91 8C:/Users/HP/Desktop/DA2/reorg_layer.v
+Z92 FC:/Users/HP/Desktop/DA2/reorg_layer.v
+L0 4
+R7
+r1
+31
+Z93 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/reorg_layer.v|
+R9
+Z94 !s108 1670756723.919000
+Z95 !s107 parameters.h|C:/Users/HP/Desktop/DA2/reorg_layer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreorg_layer_controller
+Z96 IP;7h6cijafla>lFDR@ZZG0
+Z97 V18JGTTHec4gD8o>DJ7hPB1
+R3
+Z98 w1671208178
+R81
+R82
+L0 5
+R7
+r1
+31
+R9
+Z99 !s100 HJB`LY8=8Hi4B:3aAR79M0
+Z100 !s108 1672107479.801000
+R85
+R83
+!i10b 1
+!s85 0
+!s101 -O0
+vreorg_layer_tb
+Z101 !s100 6D8zkgXXg7oCH1:dh6bcM1
+Z102 INLYcYB;GK[GoGDOE^km3^0
+Z103 V@Db3Q6dVm:DaOGT9SQ3bK1
+R3
+Z104 w1672107608
+Z105 8C:/Users/HP/Desktop/DA2/verilog/reorg_layer_tb.v
+Z106 FC:/Users/HP/Desktop/DA2/verilog/reorg_layer_tb.v
+L0 2
+R7
+r1
+31
+Z107 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/reorg_layer_tb.v|
+R9
+Z108 !s108 1675591338.398000
+Z109 !s107 parameters.h|C:/Users/HP/Desktop/DA2/verilog/reorg_layer_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vresize_controller
+Z110 !s100 Pc:4:JJeiWV4HEGea>U@e3
+Z111 IP[mg=n;jPYME41WbCm@D<1
+Z112 V^JKQC7ZA^OTAMz>@YHe9K0
+R3
+Z113 w1672116522
+Z114 8C:/Users/HP/Desktop/DA2/verilog/resize_controller.v
+Z115 FC:/Users/HP/Desktop/DA2/verilog/resize_controller.v
+L0 3
+R7
+r1
+31
+Z116 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/resize_controller.v|
+R9
+Z117 !s108 1675591338.456000
+Z118 !s107 parameters.h|C:/Users/HP/Desktop/DA2/verilog/resize_controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vresize_controller_tb
+Z119 !s100 X=_3TD7ZMk=]SAYf401hM3
+Z120 IS@KEh7b8gTVW7`fb:5adk3
+Z121 VD5IB7D1Vc<EXH=ZR8^ZXd0
+R3
+Z122 w1672116523
+Z123 8C:/Users/HP/Desktop/DA2/verilog/resize_controller_tb.v
+Z124 FC:/Users/HP/Desktop/DA2/verilog/resize_controller_tb.v
+L0 2
+R7
+r1
+31
+Z125 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/resize_controller_tb.v|
+R9
+Z126 !s108 1675591339.046000
+Z127 !s107 parameters.h|C:/Users/HP/Desktop/DA2/verilog/resize_controller_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vresize_datapath
+Z128 !s100 1cEc2iKP`TZ@:Pd2^m1WC1
+Z129 I2:[C1DCHKV6IHMl30g]901
+Z130 VScBm`OIgFYHGO]Xoc`X2z2
+R3
+Z131 w1672021527
+Z132 8C:/Users/HP/Desktop/DA2/verilog/resize_datapath.v
+Z133 FC:/Users/HP/Desktop/DA2/verilog/resize_datapath.v
+L0 1
+R7
+r1
+31
+Z134 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/resize_datapath.v|
+R9
+Z135 !s108 1675591338.501000
+Z136 !s107 C:/Users/HP/Desktop/DA2/verilog/resize_datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vresize_layer
+Z137 IgPhPobdUEHY3]DAEDe=@H0
+Z138 VV<b^o2dM7MR_ZziNMk`mN2
+R3
+Z139 w1671862107
+Z140 8C:/Users/HP/Desktop/DA2/verilog/resize_layer.v
+Z141 FC:/Users/HP/Desktop/DA2/verilog/resize_layer.v
+L0 3
+R7
+r1
+31
+Z142 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/resize_layer.v|
+R9
+Z143 !s100 VFHXAO@T9TSO;a:=N:08b3
+Z144 !s108 1671862107.298000
+Z145 !s107 parameters.h|C:/Users/HP/Desktop/DA2/verilog/resize_layer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vresize_layer_tb
+Z146 IT=h8ER:aDcNEdObldC2oQ1
+Z147 VcdS[SUAAaRZhQ>CJn[gl12
+R3
+Z148 w1671862108
+Z149 8C:/Users/HP/Desktop/DA2/verilog/resize_layer_tb.v
+Z150 FC:/Users/HP/Desktop/DA2/verilog/resize_layer_tb.v
+L0 2
+R7
+r1
+31
+Z151 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/resize_layer_tb.v|
+R9
+Z152 !s100 RYG6FBbA6L6glOlDe?K8M1
+Z153 !s108 1671862108.281000
+Z154 !s107 parameters.h|C:/Users/HP/Desktop/DA2/verilog/resize_layer_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vselect_object
+!i10b 1
+!s100 J93]3FdEJ8Jca8TaZEeXS2
+IMj4g7M5ERPi]b7W78FUK40
+V:[TZPG>m_`BY3Q`fFdnz32
+R3
+w1675591692
+8C:/Users/HP/Desktop/DA2/verilog/select_object.v
+FC:/Users/HP/Desktop/DA2/verilog/select_object.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1675591693.042000
+!s107 C:/Users/HP/Desktop/DA2/verilog/select_object.v|
+!s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/select_object.v|
+!s101 -O0
+R9
+vsub_float
+Z155 !s100 cKcJFbD[b63N=J<dOY?EQ0
+Z156 IPD?PS=MmWJKAcdC>jbE>Z1
+Z157 VKE:o7Wc<gB<bRUoTa1W[80
+R3
+Z158 w1671859012
+Z159 8C:/Users/HP/Desktop/DA2/verilog/sub_float.v
+Z160 FC:/Users/HP/Desktop/DA2/verilog/sub_float.v
+L0 1
+R7
+r1
+31
+Z161 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/sub_float.v|
+R9
+Z162 !s108 1675591338.566000
+Z163 !s107 C:/Users/HP/Desktop/DA2/verilog/sub_float.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsub_float_tb
+Z164 !s100 [517R^M1MJNbaAQI0NGIL2
+Z165 I5VBPG]?4Db[W3?OI@K6`N3
+Z166 V^;`?<HI1P:A_?7GzOZkKT0
+R3
+Z167 w1671981779
+Z168 8C:/Users/HP/Desktop/DA2/verilog/sub_float_tb.v
+Z169 FC:/Users/HP/Desktop/DA2/verilog/sub_float_tb.v
+L0 1
+R7
+r1
+31
+Z170 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/sub_float_tb.v|
+R9
+Z171 !s108 1675591338.623000
+Z172 !s107 C:/Users/HP/Desktop/DA2/verilog/sub_float_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_float_larger
+Z173 !s100 WbN?PDCYSRDG6=j[1z1ec1
+Z174 I1e^WdgXHdU5d<IBN1kbgM2
+Z175 V`b;5HIYVJlX6_IVzgd6F;1
+R3
+Z176 w1675591244
+Z177 8C:/Users/HP/Desktop/DA2/verilog/tb_float_larger.v
+Z178 FC:/Users/HP/Desktop/DA2/verilog/tb_float_larger.v
+L0 1
+R7
+r1
+31
+Z179 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/tb_float_larger.v|
+R9
+!i10b 1
+!s85 0
+Z180 !s108 1675591339.225000
+Z181 !s107 C:/Users/HP/Desktop/DA2/verilog/tb_float_larger.v|
+!s101 -O0
+vtb_multiply
+Z182 !s100 KK0Q:hBoX<fnLAWPJJEHh0
+Z183 INO7^DS@e<c`cZi2U_[==W3
+Z184 VFLR;5HZd2OKCL]H88V@a?1
+R3
+Z185 w1671809914
+Z186 8C:/Users/HP/Desktop/DA2/verilog/tb_multiply.v
+Z187 FC:/Users/HP/Desktop/DA2/verilog/tb_multiply.v
+L0 2
+R7
+r1
+31
+Z188 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/tb_multiply.v|
+R9
+Z189 !s108 1675591338.679000
+Z190 !s107 C:/Users/HP/Desktop/DA2/verilog/tb_multiply.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_resize_datapath
+Z191 !s100 d6l0ACcPVeF78==bKBoGH0
+Z192 I4]V?P]U:elD<6C9Mez^7h1
+Z193 VJM6WJOe^0L]oZ:UI:eg993
+R3
+Z194 w1672021528
+Z195 8C:/Users/HP/Desktop/DA2/verilog/tb_resize_datapath.v
+Z196 FC:/Users/HP/Desktop/DA2/verilog/tb_resize_datapath.v
+L0 2
+R7
+r1
+31
+Z197 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/tb_resize_datapath.v|
+R9
+Z198 !s108 1675591338.737000
+Z199 !s107 C:/Users/HP/Desktop/DA2/verilog/tb_resize_datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vupsample_controller
+Z200 !s100 koLa3i`1@g@m79>?cgGK93
+Z201 IaYX;nL2CPBF4[eWHMzSng3
+Z202 V<3Ud@=S]Q2SU1>`agiQ_X1
+R3
+Z203 w1672384690
+Z204 8C:/Users/HP/Desktop/DA2/verilog/upsample_controller.v
+Z205 FC:/Users/HP/Desktop/DA2/verilog/upsample_controller.v
+L0 3
+R7
+r1
+31
+Z206 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/upsample_controller.v|
+R9
+Z207 !s108 1675591338.850000
+Z208 !s107 parameters.h|C:/Users/HP/Desktop/DA2/verilog/upsample_controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vupsample_controller_tb
+Z209 !s100 mHBelY_<W0e;Tzk`zPdhi0
+Z210 I9]mCdd10DiIoQ0Kn=RC2=3
+Z211 VI`^z=]K0dQ0Z?X6oizYYO2
+R3
+Z212 w1672382980
+Z213 8C:/Users/HP/Desktop/DA2/verilog/upsample_controller_tb.v
+Z214 FC:/Users/HP/Desktop/DA2/verilog/upsample_controller_tb.v
+L0 3
+R7
+r1
+31
+Z215 !s90 -reportprogress|300|-work|work|C:/Users/HP/Desktop/DA2/verilog/upsample_controller_tb.v|
+R9
+Z216 !s108 1675591338.915000
+Z217 !s107 parameters.h|C:/Users/HP/Desktop/DA2/verilog/upsample_controller_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vupsample_layer_controller
+Z218 I`oK1Z7YiOIV9[gIEEAJc_3
+Z219 VMQ3l5hP08g^n]4`]ZaSjz2
+R3
+Z220 w1671208202
+R204
+R205
+L0 3
+R7
+r1
+31
+R9
+Z221 !s100 b`NA[[1[FIS;iE@Eog@6Y0
+Z222 !s108 1672107480.385000
+R208
+R206
+!i10b 1
+!s85 0
+!s101 -O0

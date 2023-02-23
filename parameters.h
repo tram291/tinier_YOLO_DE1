@@ -1,0 +1,14 @@
+`define	ADDR_SZ	23
+`define	DATA_SZ	16
+
+`define	MAX_WIDTH	9
+`define	MAX_HEIGHT	9
+`define	MAX_DEPTH	12
+
+`define	KERNEL_NUM	25794
+`define	KERNEL_ADDR_SZ	15
+
+`define END_ADDR0 2097151
+`define END_ADDR1 4194303
+`define END_ADDR2 6291455
+`define END_ADDR3 8388608
